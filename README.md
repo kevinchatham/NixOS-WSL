@@ -7,6 +7,11 @@
 
 Advice -> [https://github.com/nix-community/NixOS-WSL/issues/534](https://github.com/nix-community/NixOS-WSL/issues/534#issuecomment-2330737724)
 
+Building from clone / local ->
+```
+nix-build -A nixosConfigurations.default.config.system.build.tarballBuilder && sudo ./result/bin/nixos-wsl-tarball-builder
+```
+
 Modules for running NixOS on the Windows Subsystem for Linux
 
 [Documentation is available here](https://nix-community.github.io/NixOS-WSL)
