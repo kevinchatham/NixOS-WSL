@@ -5,7 +5,7 @@
   <a href="https://github.com/nix-community/NixOS-WSL/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/nix-community/NixOS-WSL/total"></a>
 </h1>
 
-Advice -> https://github.com/nix-community/NixOS-WSL/issues/534
+Advice -> [https://github.com/nix-community/NixOS-WSL/issues/534](https://github.com/nix-community/NixOS-WSL/issues/534#issuecomment-2330737724)
 
 Modules for running NixOS on the Windows Subsystem for Linux
 
